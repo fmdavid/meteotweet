@@ -6,7 +6,7 @@ Proyecto para Arduino Uno consistente en una pequeña estación meteorológica q
 
 En el siguiente enlace puede ver un vídeo explicativo del proyecto:
 
-* [Vídeo](https://www.youtube.com/watch?v=5wHlHbbFceY)
+* [Vídeo](https://youtu.be/4cWeixp1Mwg)
 
 ## Contenido
 
